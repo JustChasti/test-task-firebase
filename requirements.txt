@@ -1,0 +1,5 @@
+firebase_admin
+flask
+loguru
+Flask-WTF
+Flask-Bootstrap4
